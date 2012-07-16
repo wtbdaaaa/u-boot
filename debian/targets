@@ -1,0 +1,3 @@
+# DEB_HOST_ARCH		platform	target
+# --------------------------------------------
+armel			nokia_rx51	u-boot.bin
